@@ -1,235 +1,47 @@
-2025-06-28 16:32:24 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\hdvel\eclipse-workspace\ParaSoftBank\groups.xml
-
-2025-06-28 16:33:23 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\hdvel\eclipse-workspace\ParaSoftBank\groups.xml
-
-2025-06-28 16:33:33 INFO  TC003_VerifyAccountLoginDataDrivenTest:16 - ****Started TC003_VerifyAccountLoginDataDrivenTest****
-2025-06-28 16:33:48 INFO  TC003_VerifyAccountLoginDataDrivenTest:16 - ****Started TC003_VerifyAccountLoginDataDrivenTest****
-2025-06-28 16:34:00 INFO  TC003_VerifyAccountLoginDataDrivenTest:62 - ****Finished TC003_VerifyAccountLoginDataDrivenTest****
-2025-06-28 16:34:00 INFO  TC003_VerifyAccountLoginDataDrivenTest:16 - ****Started TC003_VerifyAccountLoginDataDrivenTest****
-2025-06-28 16:34:11 INFO  TC003_VerifyAccountLoginDataDrivenTest:62 - ****Finished TC003_VerifyAccountLoginDataDrivenTest****
-2025-06-28 16:34:11 INFO  TC003_VerifyAccountLoginDataDrivenTest:16 - ****Started TC003_VerifyAccountLoginDataDrivenTest****
-2025-06-28 16:34:22 INFO  TC003_VerifyAccountLoginDataDrivenTest:62 - ****Finished TC003_VerifyAccountLoginDataDrivenTest****
-2025-06-28 16:34:22 INFO  TC003_VerifyAccountLoginDataDrivenTest:16 - ****Started TC003_VerifyAccountLoginDataDrivenTest****
-2025-06-28 16:35:12 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\hdvel\eclipse-workspace\ParaSoftBank\groups.xml
-
-2025-06-28 16:35:53 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\hdvel\eclipse-workspace\ParaSoftBank\groups.xml
-
-2025-06-28 16:37:12 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\hdvel\eclipse-workspace\ParaSoftBank\groups.xml
-
-2025-06-28 16:39:21 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\hdvel\eclipse-workspace\ParaSoftBank\groups.xml
-
-2025-06-28 16:39:27 INFO  TC001_VerifyAccountRegistrationTest:15 - ****Started TC001_VerifyAccountRegistrationTest****
-2025-06-28 16:39:29 INFO  TC001_VerifyAccountRegistrationTest:22 - Clicked on Register Link
-2025-06-28 16:39:31 INFO  TC001_VerifyAccountRegistrationTest:40 - Clicked on Register Button
-2025-06-28 16:39:31 INFO  TC001_VerifyAccountRegistrationTest:42 - Validating the Confirmation Message
-2025-06-28 16:39:31 INFO  TC001_VerifyAccountRegistrationTest:46 - Test Passed
-2025-06-28 16:39:31 INFO  TC001_VerifyAccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2025-06-28 16:40:03 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\hdvel\eclipse-workspace\ParaSoftBank\groups.xml
-
-2025-06-28 16:40:07 INFO  TC001_VerifyAccountRegistrationTest:15 - ****Started TC001_VerifyAccountRegistrationTest****
-2025-06-28 16:40:08 INFO  TC001_VerifyAccountRegistrationTest:22 - Clicked on Register Link
-2025-06-28 16:40:10 INFO  TC001_VerifyAccountRegistrationTest:40 - Clicked on Register Button
-2025-06-28 16:40:10 INFO  TC001_VerifyAccountRegistrationTest:42 - Validating the Confirmation Message
-2025-06-28 16:40:10 INFO  TC001_VerifyAccountRegistrationTest:46 - Test Passed
-2025-06-28 16:40:10 INFO  TC001_VerifyAccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2025-06-28 16:40:14 INFO  TC002_VerifyAccountLoginTest:15 - ****Started TC002_VerifyAccountLogintest****
-2025-06-28 16:45:14 INFO  Utils:112 - [TestNG] Running:
+2025-06-30 16:41:43 INFO  Utils:112 - [TestNG] Running:
   C:\Users\hdvel\eclipse-workspace\ParaSoftBank\master.xml
 
-2025-06-28 16:45:22 INFO  TC003_VerifyAccountLoginDataDrivenTest:16 - ****Started TC003_VerifyAccountLoginDataDrivenTest****
-2025-06-28 16:45:23 INFO  TC003_VerifyAccountLoginDataDrivenTest:62 - ****Finished TC003_VerifyAccountLoginDataDrivenTest****
-2025-06-28 16:45:23 INFO  TC003_VerifyAccountLoginDataDrivenTest:16 - ****Started TC003_VerifyAccountLoginDataDrivenTest****
-2025-06-28 16:45:34 INFO  TC003_VerifyAccountLoginDataDrivenTest:16 - ****Started TC003_VerifyAccountLoginDataDrivenTest****
-2025-06-28 16:45:44 INFO  TC003_VerifyAccountLoginDataDrivenTest:16 - ****Started TC003_VerifyAccountLoginDataDrivenTest****
-2025-06-28 16:45:54 INFO  TC003_VerifyAccountLoginDataDrivenTest:16 - ****Started TC003_VerifyAccountLoginDataDrivenTest****
-2025-06-28 16:46:43 INFO  Utils:112 - [TestNG] Running:
+2025-06-30 16:41:53 INFO  TC001_VerifyAccountRegistrationTest:15 - ****Started TC001_VerifyAccountRegistrationTest****
+2025-06-30 16:41:53 INFO  TC001_VerifyAccountRegistrationTest:22 - Clicked on Register Link
+2025-06-30 16:41:55 INFO  TC001_VerifyAccountRegistrationTest:40 - Clicked on Register Button
+2025-06-30 16:41:55 INFO  TC001_VerifyAccountRegistrationTest:42 - Validating the Confirmation Message
+2025-06-30 16:41:56 INFO  TC001_VerifyAccountRegistrationTest:46 - Test Passed
+2025-06-30 16:41:56 INFO  TC001_VerifyAccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-30 16:42:01 INFO  TC002_VerifyAccountLoginTest:15 - ****Started TC002_VerifyAccountLogintest****
+2025-06-30 16:43:55 INFO  Utils:112 - [TestNG] Running:
   C:\Users\hdvel\eclipse-workspace\ParaSoftBank\master.xml
 
-2025-06-28 16:46:48 INFO  TC001_VerifyAccountRegistrationTest:15 - ****Started TC001_VerifyAccountRegistrationTest****
-2025-06-28 16:46:49 INFO  TC001_VerifyAccountRegistrationTest:22 - Clicked on Register Link
-2025-06-28 16:46:51 INFO  TC001_VerifyAccountRegistrationTest:40 - Clicked on Register Button
-2025-06-28 16:46:51 INFO  TC001_VerifyAccountRegistrationTest:42 - Validating the Confirmation Message
-2025-06-28 16:46:51 INFO  TC001_VerifyAccountRegistrationTest:46 - Test Passed
-2025-06-28 16:46:51 INFO  TC001_VerifyAccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2025-06-28 16:46:55 INFO  TC002_VerifyAccountLoginTest:15 - ****Started TC002_VerifyAccountLogintest****
-2025-06-28 16:46:57 INFO  TC002_VerifyAccountLoginTest:35 - ****Finished TC002_VerifyAccountLogintest****
-2025-06-28 16:48:42 INFO  Utils:112 - [TestNG] Running:
+2025-06-30 16:44:01 INFO  TC002_VerifyAccountLoginTest:15 - ****Started TC002_VerifyAccountLogintest****
+2025-06-30 16:46:40 INFO  Utils:112 - [TestNG] Running:
   C:\Users\hdvel\eclipse-workspace\ParaSoftBank\master.xml
 
-2025-06-28 16:48:48 INFO  TC001_VerifyAccountRegistrationTest:15 - ****Started TC001_VerifyAccountRegistrationTest****
-2025-06-28 16:48:48 INFO  TC001_VerifyAccountRegistrationTest:22 - Clicked on Register Link
-2025-06-28 16:48:50 INFO  TC001_VerifyAccountRegistrationTest:40 - Clicked on Register Button
-2025-06-28 16:48:50 INFO  TC001_VerifyAccountRegistrationTest:42 - Validating the Confirmation Message
-2025-06-28 16:48:51 INFO  TC001_VerifyAccountRegistrationTest:46 - Test Passed
-2025-06-28 16:48:51 INFO  TC001_VerifyAccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2025-06-28 16:48:55 INFO  TC002_VerifyAccountLoginTest:15 - ****Started TC002_VerifyAccountLogintest****
-2025-06-28 16:48:58 INFO  TC002_VerifyAccountLoginTest:35 - ****Finished TC002_VerifyAccountLogintest****
-2025-06-28 16:50:27 INFO  Utils:112 - [TestNG] Running:
+2025-06-30 16:46:46 INFO  TC002_VerifyAccountLoginTest:15 - ****Started TC002_VerifyAccountLogintest****
+2025-06-30 16:48:42 INFO  Utils:112 - [TestNG] Running:
   C:\Users\hdvel\eclipse-workspace\ParaSoftBank\master.xml
 
-2025-06-28 16:50:33 INFO  TC001_VerifyAccountRegistrationTest:15 - ****Started TC001_VerifyAccountRegistrationTest****
-2025-06-28 16:50:34 INFO  TC001_VerifyAccountRegistrationTest:22 - Clicked on Register Link
-2025-06-28 16:50:37 INFO  TC001_VerifyAccountRegistrationTest:40 - Clicked on Register Button
-2025-06-28 16:50:37 INFO  TC001_VerifyAccountRegistrationTest:42 - Validating the Confirmation Message
-2025-06-28 16:50:37 INFO  TC001_VerifyAccountRegistrationTest:46 - Test Passed
-2025-06-28 16:50:37 INFO  TC001_VerifyAccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2025-06-28 16:50:42 INFO  TC002_VerifyAccountLoginTest:15 - ****Started TC002_VerifyAccountLogintest****
-2025-06-28 16:50:43 INFO  TC002_VerifyAccountLoginTest:35 - ****Finished TC002_VerifyAccountLogintest****
-2025-06-28 16:51:48 INFO  Utils:112 - [TestNG] Running:
+2025-06-30 16:48:47 INFO  TC002_VerifyAccountLoginTest:15 - ****Started TC002_VerifyAccountLogintest****
+2025-06-30 16:50:48 INFO  Utils:112 - [TestNG] Running:
   C:\Users\hdvel\eclipse-workspace\ParaSoftBank\master.xml
 
-2025-06-28 16:51:54 INFO  TC001_VerifyAccountRegistrationTest:15 - ****Started TC001_VerifyAccountRegistrationTest****
-2025-06-28 16:51:54 INFO  TC001_VerifyAccountRegistrationTest:22 - Clicked on Register Link
-2025-06-28 16:51:56 INFO  TC001_VerifyAccountRegistrationTest:40 - Clicked on Register Button
-2025-06-28 16:51:56 INFO  TC001_VerifyAccountRegistrationTest:42 - Validating the Confirmation Message
-2025-06-28 16:51:56 INFO  TC001_VerifyAccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2025-06-28 16:52:01 INFO  TC002_VerifyAccountLoginTest:15 - ****Started TC002_VerifyAccountLogintest****
-2025-06-28 16:52:03 INFO  TC002_VerifyAccountLoginTest:35 - ****Finished TC002_VerifyAccountLogintest****
-2025-06-28 16:54:22 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\hdvel\eclipse-workspace\ParaSoftBank\master.xml
-
-2025-06-28 16:54:28 INFO  TC001_VerifyAccountRegistrationTest:15 - ****Started TC001_VerifyAccountRegistrationTest****
-2025-06-28 16:54:29 INFO  TC001_VerifyAccountRegistrationTest:22 - Clicked on Register Link
-2025-06-28 16:54:31 INFO  TC001_VerifyAccountRegistrationTest:40 - Clicked on Register Button
-2025-06-28 16:54:31 INFO  TC001_VerifyAccountRegistrationTest:42 - Validating the Confirmation Message
-2025-06-28 16:54:31 INFO  TC001_VerifyAccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2025-06-28 16:55:03 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\hdvel\eclipse-workspace\ParaSoftBank\test-output\testng-failed.xml
-
-2025-06-28 16:55:08 INFO  TC001_VerifyAccountRegistrationTest:15 - ****Started TC001_VerifyAccountRegistrationTest****
-2025-06-28 16:55:09 INFO  TC001_VerifyAccountRegistrationTest:22 - Clicked on Register Link
-2025-06-28 16:55:11 INFO  TC001_VerifyAccountRegistrationTest:40 - Clicked on Register Button
-2025-06-28 16:55:11 INFO  TC001_VerifyAccountRegistrationTest:42 - Validating the Confirmation Message
-2025-06-28 16:55:11 INFO  TC001_VerifyAccountRegistrationTest:46 - Test Passed
-2025-06-28 16:55:11 INFO  TC001_VerifyAccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2025-06-28 18:54:49 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\hdvel\eclipse-workspace\ParaSoftBank\master.xml
-
-2025-06-28 18:54:55 INFO  TC001_VerifyAccountRegistrationTest:15 - ****Started TC001_VerifyAccountRegistrationTest****
-2025-06-28 18:54:55 INFO  TC001_VerifyAccountRegistrationTest:22 - Clicked on Register Link
-2025-06-28 18:54:57 INFO  TC001_VerifyAccountRegistrationTest:40 - Clicked on Register Button
-2025-06-28 18:54:57 INFO  TC001_VerifyAccountRegistrationTest:42 - Validating the Confirmation Message
-2025-06-28 18:54:57 INFO  TC001_VerifyAccountRegistrationTest:46 - Test Passed
-2025-06-28 18:54:57 INFO  TC001_VerifyAccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2025-06-28 19:21:56 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\hdvel\eclipse-workspace\ParaSoftBank\grid-docker.xml
-
-2025-06-28 19:22:01 INFO  TC001_VerifyAccountRegistrationTest:15 - ****Started TC001_VerifyAccountRegistrationTest****
-2025-06-28 19:22:02 INFO  TC001_VerifyAccountRegistrationTest:22 - Clicked on Register Link
-2025-06-28 19:22:04 INFO  TC001_VerifyAccountRegistrationTest:40 - Clicked on Register Button
-2025-06-28 19:22:04 INFO  TC001_VerifyAccountRegistrationTest:42 - Validating the Confirmation Message
-2025-06-28 19:22:04 INFO  TC001_VerifyAccountRegistrationTest:46 - Test Passed
-2025-06-28 19:22:04 INFO  TC001_VerifyAccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2025-06-28 19:22:08 INFO  TC002_VerifyAccountLoginTest:15 - ****Started TC002_VerifyAccountLogintest****
-2025-06-28 19:23:43 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\hdvel\eclipse-workspace\ParaSoftBank\grid-docker.xml
-
-2025-06-28 19:23:48 INFO  TC001_VerifyAccountRegistrationTest:15 - ****Started TC001_VerifyAccountRegistrationTest****
-2025-06-28 19:23:48 INFO  TC001_VerifyAccountRegistrationTest:22 - Clicked on Register Link
-2025-06-28 19:23:49 INFO  TC001_VerifyAccountRegistrationTest:40 - Clicked on Register Button
-2025-06-28 19:23:49 INFO  TC001_VerifyAccountRegistrationTest:42 - Validating the Confirmation Message
-2025-06-28 19:23:50 INFO  TC001_VerifyAccountRegistrationTest:46 - Test Passed
-2025-06-28 19:23:50 INFO  TC001_VerifyAccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2025-06-28 19:23:54 INFO  TC002_VerifyAccountLoginTest:15 - ****Started TC002_VerifyAccountLogintest****
-2025-06-28 19:27:54 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\hdvel\eclipse-workspace\ParaSoftBank\grid-docker.xml
-
-2025-06-28 19:28:00 INFO  TC001_VerifyAccountRegistrationTest:15 - ****Started TC001_VerifyAccountRegistrationTest****
-2025-06-28 19:28:00 INFO  TC001_VerifyAccountRegistrationTest:22 - Clicked on Register Link
-2025-06-28 19:28:01 INFO  TC001_VerifyAccountRegistrationTest:40 - Clicked on Register Button
-2025-06-28 19:28:01 INFO  TC001_VerifyAccountRegistrationTest:42 - Validating the Confirmation Message
-2025-06-28 19:28:01 INFO  TC001_VerifyAccountRegistrationTest:46 - Test Passed
-2025-06-28 19:28:01 INFO  TC001_VerifyAccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2025-06-28 19:28:06 INFO  TC002_VerifyAccountLoginTest:15 - ****Started TC002_VerifyAccountLogintest****
-2025-06-28 19:28:25 INFO  TC001_VerifyAccountRegistrationTest:15 - ****Started TC001_VerifyAccountRegistrationTest****
-2025-06-28 19:28:26 INFO  TC001_VerifyAccountRegistrationTest:22 - Clicked on Register Link
-2025-06-28 19:28:26 INFO  TC001_VerifyAccountRegistrationTest:40 - Clicked on Register Button
-2025-06-28 19:28:26 INFO  TC001_VerifyAccountRegistrationTest:42 - Validating the Confirmation Message
-2025-06-28 19:28:26 INFO  TC001_VerifyAccountRegistrationTest:46 - Test Passed
-2025-06-28 19:28:26 INFO  TC001_VerifyAccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2025-06-28 19:28:33 INFO  TC002_VerifyAccountLoginTest:15 - ****Started TC002_VerifyAccountLogintest****
-2025-06-28 19:31:12 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\hdvel\eclipse-workspace\ParaSoftBank\grid-docker.xml
-
-2025-06-28 19:31:17 INFO  TC001_VerifyAccountRegistrationTest:15 - ****Started TC001_VerifyAccountRegistrationTest****
-2025-06-28 19:31:17 INFO  TC001_VerifyAccountRegistrationTest:22 - Clicked on Register Link
-2025-06-28 19:31:18 INFO  TC001_VerifyAccountRegistrationTest:40 - Clicked on Register Button
-2025-06-28 19:31:18 INFO  TC001_VerifyAccountRegistrationTest:42 - Validating the Confirmation Message
-2025-06-28 19:31:18 INFO  TC001_VerifyAccountRegistrationTest:46 - Test Passed
-2025-06-28 19:31:18 INFO  TC001_VerifyAccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2025-06-28 19:31:21 INFO  TC002_VerifyAccountLoginTest:15 - ****Started TC002_VerifyAccountLogintest****
-2025-06-28 19:31:40 INFO  TC001_VerifyAccountRegistrationTest:15 - ****Started TC001_VerifyAccountRegistrationTest****
-2025-06-28 19:31:40 INFO  TC001_VerifyAccountRegistrationTest:22 - Clicked on Register Link
-2025-06-28 19:31:41 INFO  TC001_VerifyAccountRegistrationTest:40 - Clicked on Register Button
-2025-06-28 19:31:41 INFO  TC001_VerifyAccountRegistrationTest:42 - Validating the Confirmation Message
-2025-06-28 19:31:41 INFO  TC001_VerifyAccountRegistrationTest:46 - Test Passed
-2025-06-28 19:31:41 INFO  TC001_VerifyAccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2025-06-28 19:31:47 INFO  TC002_VerifyAccountLoginTest:15 - ****Started TC002_VerifyAccountLogintest****
-2025-06-28 19:32:40 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\hdvel\eclipse-workspace\ParaSoftBank\grid-docker.xml
-
-2025-06-28 19:32:40 INFO  TC001_VerifyAccountRegistrationTest:15 - ****Started TC001_VerifyAccountRegistrationTest****
-2025-06-28 19:32:40 ERROR TC001_VerifyAccountRegistrationTest:50 - Test failed: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
-2025-06-28 19:32:40 INFO  TC001_VerifyAccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2025-06-28 19:34:24 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\hdvel\eclipse-workspace\ParaSoftBank\grid-docker.xml
-
-2025-06-28 19:34:33 INFO  TC001_VerifyAccountRegistrationTest:15 - ****Started TC001_VerifyAccountRegistrationTest****
-2025-06-28 19:34:33 INFO  TC001_VerifyAccountRegistrationTest:22 - Clicked on Register Link
-2025-06-28 19:34:35 INFO  TC001_VerifyAccountRegistrationTest:40 - Clicked on Register Button
-2025-06-28 19:34:35 INFO  TC001_VerifyAccountRegistrationTest:42 - Validating the Confirmation Message
-2025-06-28 19:34:35 INFO  TC001_VerifyAccountRegistrationTest:46 - Test Passed
-2025-06-28 19:34:35 INFO  TC001_VerifyAccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2025-06-28 19:34:38 INFO  TC002_VerifyAccountLoginTest:15 - ****Started TC002_VerifyAccountLogintest****
-2025-06-28 19:34:52 INFO  TC001_VerifyAccountRegistrationTest:15 - ****Started TC001_VerifyAccountRegistrationTest****
-2025-06-28 19:34:52 ERROR TC001_VerifyAccountRegistrationTest:50 - Test failed: Session ID is null. Using WebDriver after calling quit()?
-Build info: version: '4.33.0', revision: '2c6aaad03a'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
-Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Command: [null, findElement {value=//a[text()='Register'], using=xpath}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.113, chrome: {chromedriverVersion: 128.0.6613.86 (3045ed680fda..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:36485}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.19.0.3:4444/sessio..., se:cdpVersion: 128.0.6613.113, se:containerName: , se:noVncPort: 7900, se:vnc: ws://172.19.0.3:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.19.0.3:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-2025-06-28 19:34:52 INFO  TC001_VerifyAccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2025-06-28 19:36:54 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\hdvel\eclipse-workspace\ParaSoftBank\grid-docker.xml
-
-2025-06-28 19:36:59 INFO  TC001_VerifyAccountRegistrationTest:15 - ****Started TC001_VerifyAccountRegistrationTest****
-2025-06-28 19:37:00 INFO  TC001_VerifyAccountRegistrationTest:22 - Clicked on Register Link
-2025-06-28 19:37:01 INFO  TC001_VerifyAccountRegistrationTest:40 - Clicked on Register Button
-2025-06-28 19:37:01 INFO  TC001_VerifyAccountRegistrationTest:42 - Validating the Confirmation Message
-2025-06-28 19:37:01 INFO  TC001_VerifyAccountRegistrationTest:46 - Test Passed
-2025-06-28 19:37:01 INFO  TC001_VerifyAccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2025-06-28 19:37:05 INFO  TC002_VerifyAccountLoginTest:15 - ****Started TC002_VerifyAccountLogintest****
-2025-06-28 19:39:37 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\hdvel\eclipse-workspace\ParaSoftBank\grid-docker.xml
-
-2025-06-28 19:39:43 INFO  TC001_VerifyAccountRegistrationTest:15 - ****Started TC001_VerifyAccountRegistrationTest****
-2025-06-28 19:39:43 INFO  TC001_VerifyAccountRegistrationTest:22 - Clicked on Register Link
-2025-06-28 19:39:44 INFO  TC001_VerifyAccountRegistrationTest:40 - Clicked on Register Button
-2025-06-28 19:39:44 INFO  TC001_VerifyAccountRegistrationTest:42 - Validating the Confirmation Message
-2025-06-28 19:39:44 INFO  TC001_VerifyAccountRegistrationTest:46 - Test Passed
-2025-06-28 19:39:44 INFO  TC001_VerifyAccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2025-06-28 19:39:48 INFO  TC002_VerifyAccountLoginTest:15 - ****Started TC002_VerifyAccountLogintest****
-2025-06-28 19:45:11 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\hdvel\eclipse-workspace\ParaSoftBank\grid-docker.xml
-
-2025-06-28 19:45:17 INFO  TC001_VerifyAccountRegistrationTest:15 - ****Started TC001_VerifyAccountRegistrationTest****
-2025-06-28 19:45:18 INFO  TC001_VerifyAccountRegistrationTest:22 - Clicked on Register Link
-2025-06-28 19:45:19 INFO  TC001_VerifyAccountRegistrationTest:40 - Clicked on Register Button
-2025-06-28 19:45:19 INFO  TC001_VerifyAccountRegistrationTest:42 - Validating the Confirmation Message
-2025-06-28 19:45:19 INFO  TC001_VerifyAccountRegistrationTest:46 - Test Passed
-2025-06-28 19:45:19 INFO  TC001_VerifyAccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2025-06-28 19:45:24 INFO  TC002_VerifyAccountLoginTest:15 - ****Started TC002_VerifyAccountLogintest****
-2025-06-28 19:45:44 INFO  TC001_VerifyAccountRegistrationTest:15 - ****Started TC001_VerifyAccountRegistrationTest****
-2025-06-28 19:45:45 INFO  TC001_VerifyAccountRegistrationTest:22 - Clicked on Register Link
-2025-06-28 19:45:45 INFO  TC001_VerifyAccountRegistrationTest:40 - Clicked on Register Button
-2025-06-28 19:45:45 INFO  TC001_VerifyAccountRegistrationTest:42 - Validating the Confirmation Message
-2025-06-28 19:45:46 INFO  TC001_VerifyAccountRegistrationTest:46 - Test Passed
-2025-06-28 19:45:46 INFO  TC001_VerifyAccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
-2025-06-28 19:45:51 INFO  TC002_VerifyAccountLoginTest:15 - ****Started TC002_VerifyAccountLogintest****
+2025-06-30 16:50:54 INFO  TC002_VerifyAccountLoginTest:15 - ****Started TC002_VerifyAccountLogintest****
+2025-06-30 17:52:33 INFO  TC001_VerifyAccountRegistrationTest:15 - ****Started TC001_VerifyAccountRegistrationTest****
+2025-06-30 17:52:34 INFO  TC001_VerifyAccountRegistrationTest:22 - Clicked on Register Link
+2025-06-30 17:52:37 INFO  TC001_VerifyAccountRegistrationTest:40 - Clicked on Register Button
+2025-06-30 17:52:37 INFO  TC001_VerifyAccountRegistrationTest:42 - Validating the Confirmation Message
+2025-06-30 17:52:37 INFO  TC001_VerifyAccountRegistrationTest:46 - Test Passed
+2025-06-30 17:52:37 INFO  TC001_VerifyAccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-30 17:52:42 INFO  TC002_VerifyAccountLoginTest:15 - ****Started TC002_VerifyAccountLogintest****
+2025-06-30 17:53:00 INFO  TC003_VerifyAccountLoginDataDrivenTest:16 - ****Started TC003_VerifyAccountLoginDataDrivenTest****
+2025-06-30 17:53:12 INFO  TC003_VerifyAccountLoginDataDrivenTest:16 - ****Started TC003_VerifyAccountLoginDataDrivenTest****
+2025-06-30 17:53:23 INFO  TC003_VerifyAccountLoginDataDrivenTest:62 - ****Finished TC003_VerifyAccountLoginDataDrivenTest****
+2025-06-30 17:53:23 INFO  TC003_VerifyAccountLoginDataDrivenTest:16 - ****Started TC003_VerifyAccountLoginDataDrivenTest****
+2025-06-30 17:53:35 INFO  TC003_VerifyAccountLoginDataDrivenTest:62 - ****Finished TC003_VerifyAccountLoginDataDrivenTest****
+2025-06-30 17:53:35 INFO  TC003_VerifyAccountLoginDataDrivenTest:16 - ****Started TC003_VerifyAccountLoginDataDrivenTest****
+2025-06-30 17:53:46 INFO  TC003_VerifyAccountLoginDataDrivenTest:62 - ****Finished TC003_VerifyAccountLoginDataDrivenTest****
+2025-06-30 17:53:46 INFO  TC003_VerifyAccountLoginDataDrivenTest:16 - ****Started TC003_VerifyAccountLoginDataDrivenTest****
+2025-06-30 17:55:21 INFO  TC001_VerifyAccountRegistrationTest:15 - ****Started TC001_VerifyAccountRegistrationTest****
+2025-06-30 17:55:21 INFO  TC001_VerifyAccountRegistrationTest:22 - Clicked on Register Link
+2025-06-30 17:55:23 INFO  TC001_VerifyAccountRegistrationTest:40 - Clicked on Register Button
+2025-06-30 17:55:23 INFO  TC001_VerifyAccountRegistrationTest:42 - Validating the Confirmation Message
+2025-06-30 17:55:23 INFO  TC001_VerifyAccountRegistrationTest:46 - Test Passed
+2025-06-30 17:55:23 INFO  TC001_VerifyAccountRegistrationTest:55 - ***** Finished TC001_AccountRegistrationTest *****

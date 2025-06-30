@@ -32,8 +32,9 @@ public Logger logger;
 public Properties p;
 	
 	@SuppressWarnings({ "deprecation" })
-	@BeforeClass(groups= {"Sanity", "Regression", "Master"})
 	@Parameters({"os", "browser"})
+	@BeforeClass(groups= {"Sanity", "Regression", "Master"})
+
 	public void setup(String os, String br) throws IOException
 	{
 		//Loading Properties file
